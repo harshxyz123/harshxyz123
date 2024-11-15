@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @harshxyz123
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Metaverse
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on AI model development
 - 📫 How to reach me 
-    insta: @_harsh_dadhich_
+    insta: @_harsh.dadhich_
     email: harsh.dadhich.ug21@nsut.ac.in
 
 <!---
